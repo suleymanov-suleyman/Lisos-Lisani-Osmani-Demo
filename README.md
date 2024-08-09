@@ -1,3 +1,3 @@
 # lisos
 
-Demo Video [linki](https://ogrencibartinedu-my.sharepoint.com/:v:/g/personal/23670310067_ogrenci_bartin_edu_tr/ER5gmzL1tcdOkmPmDvwlQdkBs7960BgOmcIx1jHZFgl3Qw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xxa05F)
+Demo Video [linki](video3352635509.mp4)
